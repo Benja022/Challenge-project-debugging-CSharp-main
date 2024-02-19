@@ -1,0 +1,15 @@
+/home/benjamin/Documentos/NET/Challenge-project-debugging-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final
+/home/benjamin/Documentos/NET/Challenge-project-debugging-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final.deps.json
+/home/benjamin/Documentos/NET/Challenge-project-debugging-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final.runtimeconfig.json
+/home/benjamin/Documentos/NET/Challenge-project-debugging-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final.dll
+/home/benjamin/Documentos/NET/Challenge-project-debugging-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final.pdb
+/home/benjamin/Documentos/NET/Challenge-project-debugging-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.GeneratedMSBuildEditorConfig.editorconfig
+/home/benjamin/Documentos/NET/Challenge-project-debugging-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.AssemblyInfoInputs.cache
+/home/benjamin/Documentos/NET/Challenge-project-debugging-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.AssemblyInfo.cs
+/home/benjamin/Documentos/NET/Challenge-project-debugging-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.csproj.CoreCompileInputs.cache
+/home/benjamin/Documentos/NET/Challenge-project-debugging-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.sourcelink.json
+/home/benjamin/Documentos/NET/Challenge-project-debugging-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.dll
+/home/benjamin/Documentos/NET/Challenge-project-debugging-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/refint/Final.dll
+/home/benjamin/Documentos/NET/Challenge-project-debugging-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.pdb
+/home/benjamin/Documentos/NET/Challenge-project-debugging-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.genruntimeconfig.cache
+/home/benjamin/Documentos/NET/Challenge-project-debugging-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/ref/Final.dll

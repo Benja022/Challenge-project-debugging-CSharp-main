@@ -1,0 +1,15 @@
+/home/benjamin/Documentos/NET/Challenge-project-debugging-CSharp-main/ChallengeProject/Starter/bin/Debug/net8.0/Starter
+/home/benjamin/Documentos/NET/Challenge-project-debugging-CSharp-main/ChallengeProject/Starter/bin/Debug/net8.0/Starter.deps.json
+/home/benjamin/Documentos/NET/Challenge-project-debugging-CSharp-main/ChallengeProject/Starter/bin/Debug/net8.0/Starter.runtimeconfig.json
+/home/benjamin/Documentos/NET/Challenge-project-debugging-CSharp-main/ChallengeProject/Starter/bin/Debug/net8.0/Starter.dll
+/home/benjamin/Documentos/NET/Challenge-project-debugging-CSharp-main/ChallengeProject/Starter/bin/Debug/net8.0/Starter.pdb
+/home/benjamin/Documentos/NET/Challenge-project-debugging-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/home/benjamin/Documentos/NET/Challenge-project-debugging-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfoInputs.cache
+/home/benjamin/Documentos/NET/Challenge-project-debugging-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfo.cs
+/home/benjamin/Documentos/NET/Challenge-project-debugging-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.csproj.CoreCompileInputs.cache
+/home/benjamin/Documentos/NET/Challenge-project-debugging-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.sourcelink.json
+/home/benjamin/Documentos/NET/Challenge-project-debugging-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.dll
+/home/benjamin/Documentos/NET/Challenge-project-debugging-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/refint/Starter.dll
+/home/benjamin/Documentos/NET/Challenge-project-debugging-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.pdb
+/home/benjamin/Documentos/NET/Challenge-project-debugging-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.genruntimeconfig.cache
+/home/benjamin/Documentos/NET/Challenge-project-debugging-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/ref/Starter.dll
